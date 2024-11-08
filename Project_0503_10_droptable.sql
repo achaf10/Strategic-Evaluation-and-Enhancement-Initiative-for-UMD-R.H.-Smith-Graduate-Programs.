@@ -1,0 +1,8 @@
+USE BUDT702_Project_0503_10;
+
+-- Drop Tables if ExistS
+DROP TABLE IF EXISTS Give;
+DROP TABLE IF EXISTS [Rank];
+DROP TABLE IF EXISTS RankingFactors;
+DROP TABLE IF EXISTS Publication;
+DROP TABLE IF EXISTS Program;
